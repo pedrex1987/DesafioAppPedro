@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesafioPedro</string>
+    <string name="nmCliente">Nome do Cliente</string>
+    <string name="nmVendedor">Nome do Vendedor</string>
+    <string name="dtVenda">Data</string>
+    <string name="hrVenda">Hora</string>
+    <string name="vrVenda">Valor</string>
+    <string name="tipoMoeda">R$: </string>
+</resources>
